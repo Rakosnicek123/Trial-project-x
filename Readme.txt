@@ -12,6 +12,19 @@ Skype:
 Tento repozitar je  na vyuku C++,SQL a na sebazdokonalovanie sameho seba (Já).
 Budem pridavat E-knihy + moje kopilacie na c++.
 
+Programy:
+
+Dobry program je: Dev-C++ 5.0   Beta 9.2
+Aj Microsoft Visual Studio 2012
+
+
+
+
+
+
+
+
+
 ------------------
 -----E-kniha- Naucte se C++ za 21 dni------
 ------------------
