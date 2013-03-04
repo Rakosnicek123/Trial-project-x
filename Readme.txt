@@ -10,3 +10,4 @@ Skype:
 ----------------------------------
 
 Tento repozitár je  na výuku C++,SQL a na sebazdokonalovanie sameho seba (Já).
+Budem pridávat E-knihy + moje kopilácie na c++.
