@@ -17,11 +17,11 @@ Budem pridavat E-knihy + moje kopilacie na c++.
 ------------------
 
 
-Jesse Liberty, Bradley L. Jones  ·  Vydavate¾stvo: Computer Press, 2007
-Preklad: Josef Pojsl, Karel Voráèek
+Jesse Liberty, Bradley L. Jones  ·  Vydavatelstvo: Computer Press, 2007
+Preklad: Josef Pojsl, Karel Voracek
 ---------
-Poèet strán: 800 strán
-Jazyk: èeský jazyk
+Pocet stran: 800 stran
+Jazyk: Cesky jazyk
 
 
 /////////////////////////////////////////////////////////////////////////////
